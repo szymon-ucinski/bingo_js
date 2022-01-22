@@ -2,6 +2,6 @@
 
 **Run from console:**  
 `node index.js`  
-**Avaliable arguments:**  
+**Available arguments:**  
 `test` - solve for test input  
 `part:1` - solve only first part   
